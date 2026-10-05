@@ -1,14 +1,6 @@
 # (457) 0x02. Blockchain - Block mining
 Specializations > System programming & Algorithm > Blockchain
 
----
-
-### Project author
-Alexandre Gautier
-
-### Assignment dates
-08-04-2021 to 08-06-2021
-
 ### Description
 Introduction to block mining, block difficulty, and proof of work.
 
@@ -91,8 +83,3 @@ Write a function that computes the difficulty to assign to a potential next bloc
 
 File(s): [`blockchain_difficulty.c`](./blockchain_difficulty.c)\
 Compiled: `gcc -Wall -Wextra -Werror -pedantic -I. -I../../crypto -o blockchain_difficulty-test blockchain_create.c block_create.c block_destroy.c blockchain_destroy.c block_hash.c blockchain_difficulty.c provided/_genesis.c provided/_blockchain_print.c test/blockchain_difficulty-main.c -L../../crypto -lhblk_crypto -lllist -lssl -lcrypto -pthread`
-
----
-
-## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)

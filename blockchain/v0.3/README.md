@@ -1,14 +1,6 @@
 # (458) 0x03. Blockchain - Transactions
 Specializations > System programming & Algorithm > Blockchain
 
----
-
-### Project author
-Alexandre Gautier
-
-### Assignment dates
-08-09-2021 to 08-25-2021
-
 ### Description
 Introduction to UTXO and coinbase transactions.
 
@@ -359,8 +351,3 @@ The library must be called `libhblk_blockchain.a`, and your Makefile must define
 
 File(s): [`Makefile`](./Makefile)\
 Compiled: `make libhblk_blockchain.a`
-
----
-
-## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)

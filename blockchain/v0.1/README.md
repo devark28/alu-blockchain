@@ -1,14 +1,6 @@
 # (456) 0x01. Blockchain - Data structures
 Specializations > System programming & Algorithm > Blockchain
 
----
-
-### Project author
-Alexandre Gautier
-
-### Assignment dates
-07-26-2021 to 08-04-2021
-
 ### Description
 Introduction to data structures used to store each block's info profile and payload of data.
 
@@ -176,8 +168,3 @@ Write a function that verifies that a block is valid
 
 File(s): [`block_is_valid.c`](./block_is_valid.c)\
 Compiled: `gcc -Wall -Wextra -Werror -pedantic -I. -o block_is_valid-test blockchain_create.c block_create.c block_destroy.c blockchain_destroy.c block_hash.c block_is_valid.c test/block_is_valid-main.c -L../../crypto -lhblk_crypto -lllist -lssl -lcrypto -pthread`
-
----
-
-## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
