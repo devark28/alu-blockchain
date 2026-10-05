@@ -3,12 +3,6 @@ Specializations > System programming & Algorithm > Blockchain
 
 ---
 
-### Project author
-Alexandre Gautier
-
-### Assignment dates
-07-14-2021 to 07-23-2021
-
 ### Description
 Introduction to Blockchains and their encryption, including concepts like hash algorithms (SHA in particular,) Elliptic Curve Cryptography (ECC,) and Elliptic Curve Digital Signature Algorithm (ECDSA;) all in the context of using the OpenSSL C API.
 
@@ -140,8 +134,3 @@ The library must be called `libhblk_crypto.a`, and your Makefile must define a r
 
 File(s): [`Makefile`](./Makefile)\
 Compiled: `make libhblk_crypto.a`
-
----
-
-## Student
-* **Samuel Pomeroy** - [allelomorph](github.com/allelomorph)
